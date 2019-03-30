@@ -1,0 +1,1 @@
+# Day 21 cannot be solved in Python, because Python does not support Generics
